@@ -96,7 +96,7 @@ Através do Spring Tool Suite, Eclipse com o plugin STS ou outra IDE Java:
  
 ## Autores
  
-* **Cleber Santos Sanches**: @cleberssanches1Via (https://github.com/cleberssanches1Via)
+* **Cleber Santos Sanches**: @cleberssanches1 (https://github.com/cleberssanches1)
  
  
 <p align="right">(<a href="#readme-top">volta ao topo</a>)</p>
