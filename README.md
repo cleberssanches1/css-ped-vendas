@@ -86,7 +86,7 @@ Através do Spring Tool Suite, Eclipse com o plugin STS ou outra IDE Java:
 ## Links
  
  - Link do épico no jira: NA
- - Repository: https://github.com/viavarejo-internal/gcb-hr-hub-employee-data
+ - Repository: https://github.com/cleberssanches1/css-ped-vendas
  
  
 ## Versionamento
