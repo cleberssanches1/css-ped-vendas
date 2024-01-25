@@ -64,10 +64,9 @@ public class ClienteController {
 		return ResponseEntity.ok().body(clienteInputPort.findAll(pageable).map(ClienteMapper::fromClienteDtoToClienteResponse));	
     } 
 	
-	@GetMapping("/pedidos/{id}")
+	@GetMapping("/{id}/pedidos")
 	public ResponseEntity<List<ClientePedidoDTO>> findClientePedidosById(@Required @PathVariable final String id) throws NumberFormatException, Exception{		 
 		return ResponseEntity.ok().body(clienteInputPort.findClientePedidosById(Long.valueOf(id)));	
 	}
 		
-
 }
